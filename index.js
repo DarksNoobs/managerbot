@@ -4,6 +4,8 @@ const config = require("./config.json");
 const client = new Discord.Client();
 const Enmap = require("enmap")
 const fs = require("fs");
+
+client.login(process.env.TOKEN)
 // const money = require("./money.json")
 client.config = config;
 

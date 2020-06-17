@@ -1,0 +1,24 @@
+{
+  "name": "darksnoobsmanager",
+  "version": "1.0.0",
+  "description": "Le bot discord de manager pour mon discord",
+  "main": "index.js",
+  "dependencies": {
+    "enmap": "^5.1.2",
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarksNoobs/managerbot.git"
+  },
+  "author": "DarksNoons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarksNoobs/managerbot/issues"
+  },
+  "homepage": "https://github.com/DarksNoobs/managerbot#readme"
+}
